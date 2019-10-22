@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Account</string>
     <string name="input_error">Enter Email and Password</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="back">Back</string>
 
 </resources>
